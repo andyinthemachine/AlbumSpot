@@ -1,2 +1,15 @@
-# Project1
-For this project, our group decided to build a website which would allow the user to search by artist and display the artists album, play a snippet of the songs in that album, and by using the users IP address find events for that artist in their area. We also allowed the user to view their most recent searches by using a firebase database to save the users search. In this project, our group used firebase, a song widget, four apis, javascript and css for styling.
+
+
+### **Album Spot App**  Web Application to explore Album covers, cool band info, listen to music, and get tickets to local shows 
+
+#### **Authors**  **Andrew Ulrich** **Chritian Pak** **Claudia Falk**
+
+##### HTML CSS Javascript / Google geocode API / Deezer Music API / Ticketmaster API / audioscrobbler API
+
+####Google - Firebase database persistence
+
+
+#### Allows the user to search by artist and display the artists album
+#### Play any of the the songs in that album, 
+#### Uses current IP address find concerts for the currently viewed artist in the local area.
+#### Firebase database to saves a list of the albums viewed
