@@ -1,6 +1,6 @@
 
 
-### **Album Spot App**  Web Application 
+### **Album Spot**  Web Application 
 
 ### Explore Album covers, cool band info, listen to music, and get tickets to local shows 
 
