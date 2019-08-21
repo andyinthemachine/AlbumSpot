@@ -4,7 +4,7 @@
 
 ### Explore Album covers, cool band info, listen to music, and get tickets to local shows 
 
-#### **Authors**  **Andrew Ulrich** **Chritian Pak** **Claudia Falk**
+#### **Authors: **  **Andrew Ulrich** **Chritian Pak** **Claudia Falk**
 
 ##### HTML CSS Javascript / Google geocode API / Deezer Music API / Ticketmaster API / audioscrobbler API
 
