@@ -1,12 +1,14 @@
 
 
-### **Album Spot App**  Web Application to explore Album covers, cool band info, listen to music, and get tickets to local shows 
+### **Album Spot App**  Web Application 
+
+### Explore Album covers, cool band info, listen to music, and get tickets to local shows 
 
 #### **Authors**  **Andrew Ulrich** **Chritian Pak** **Claudia Falk**
 
 ##### HTML CSS Javascript / Google geocode API / Deezer Music API / Ticketmaster API / audioscrobbler API
 
-####Google - Firebase database persistence
+#### Google - Firebase database persistence
 
 
 #### Allows the user to search by artist and display the artists album
